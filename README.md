@@ -1,6 +1,9 @@
 # Lock-bitlocker-drives-with-Python
-Python Script  GUI for Locking Bitlocker Drives Without Shutdown and Restart your  PC/Laptop
+### Python Script  GUI for Locking Bitlocker Drives Without Shutdown and Restart your  PC/Laptop
 ![Python Logo](https://raw.githubusercontent.com/willtheorangeguy/Python-Logo-Widgets/master/pythonlogogif.gif)
+### Screenshot
+![Screenshot (2)](https://user-images.githubusercontent.com/64314222/108600510-8908ca80-73bd-11eb-872a-074c9601f31d.png)
+### Click on this Button then E Drive has been lock:
 ### Requirements
 ```
 Python3
